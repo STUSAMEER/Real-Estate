@@ -1,0 +1,22 @@
+.f-container {
+    justify-content: space-between;
+}
+
+.f-left {
+    gap: 0.8rem;
+}
+
+.f-container .primaryText {
+    font-size: 1.2rem;
+}
+
+.f-container .secondaryText {
+    font-size: 0.8rem;
+}
+
+.f-menu {
+    gap: 1.5rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
