@@ -2,7 +2,7 @@
   "name": "real-estate",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://STUSAMEER.github.io/Real-Estate",
+  "homepage": "https://STUSAMEER.github.io/real-estate",
   "type": "module",
   "scripts": {
     "dev": "vite",
